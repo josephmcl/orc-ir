@@ -1,0 +1,3 @@
+[submodule "oetrsvir.manuscript"]
+	path = oetrsvir.manuscript
+	url = https://github.com/josephmcl/oetrsvir.manuscript
