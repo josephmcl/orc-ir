@@ -1,2 +1,2 @@
-# oetrsvir
-A mixed precision solver with online defect tracking
+# orc-ir
+A mixed precision solver with online representation correction
