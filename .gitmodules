@@ -1,6 +1,6 @@
-[submodule "oetrsvir.manuscript"]
-	path = oetrsvir.manuscript
-	url = https://github.com/josephmcl/oetrsvir.manuscript
+[submodule "orc-ir.manuscript"]
+	path = manuscript
+	url = https://github.com/josephmcl/orc-ir.manuscript
 [submodule "oetrsvir.impl"]
 	path = oetrsvir.impl
 	url = https://github.com/josephmcl/oetrsvir.impl
