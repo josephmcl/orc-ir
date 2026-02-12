@@ -4,3 +4,6 @@
 [submodule "orc-ir.impl"]
 	path = impl
 	url = https://github.com/josephmcl/orc-ir.impl
+[submodule "impl"]
+	path = impl
+	url = git@github.com:josephmcl/orc-ir.impl.git
