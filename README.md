@@ -1,2 +1,2 @@
 # orc-ir
-A mixed precision solver with online representation correction
+A mixed-precision solver for dense linear systems with online representation correction
